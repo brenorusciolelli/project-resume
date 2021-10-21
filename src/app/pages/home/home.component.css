@@ -1,0 +1,40 @@
+.white-title {
+  color: white;
+  font-size: 35px;
+}
+
+.home-container {
+  margin-left: 40px
+}
+
+.info-subtitle {
+  color: gray;
+  font-size: 20px;
+}
+
+.container-button-ct {
+  margin-left: 15px;
+}
+
+.btcontato {
+  border: 5px;
+  border-color: white;
+  size: 50px !important;
+}
+
+.sobre-mim-container {
+  display: block;
+  text-align: center;
+  width: 700px;
+  height: 70px;
+  margin-top: 120px;
+}
+
+.sobre-content {
+  display: block;
+  text-align: center;
+  width: 700px;
+  color: gray;
+}
+
+
