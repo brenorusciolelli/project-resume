@@ -1,0 +1,44 @@
+.info-component-container {
+  display: flex;
+  flex: 1;
+  margin-top: 3rem;
+  justify-content: space-around;
+  max-width: 70%;
+
+}
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-geral {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item-title {
+  color: white;
+  font-size: 15px;
+  line-height: 23px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.item-title:hover {
+  color: var(--color-white-secundary);
+}
+
+.item-subtitle {
+  color: #828282;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+

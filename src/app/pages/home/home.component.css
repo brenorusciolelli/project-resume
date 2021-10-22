@@ -1,6 +1,7 @@
 .white-title {
   color: white;
   font-size: 35px;
+  margin-top: 40px;
 }
 
 .home-container {
@@ -27,7 +28,7 @@
   text-align: center;
   width: 700px;
   height: 70px;
-  margin-top: 120px;
+  margin-top: 60px;
 }
 
 .sobre-content {
@@ -36,5 +37,7 @@
   width: 700px;
   color: gray;
 }
+
+
 
 
