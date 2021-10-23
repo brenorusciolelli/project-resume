@@ -1,18 +1,17 @@
 .footer {
+  width: 100%;
   bottom: 0;
+  display: block;
   text-align: center;
   align-items: center;
-  flex: 1;
   font-size: 14px;
-  width: 1745px;
   position: absolute;
-  bottom: 0;
-  left: 0;
+  margin: auto;
+  max-width: 100%;
 }
 
-.footer-container {
-  display: flex;
-}
+
+
 
 
 

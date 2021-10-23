@@ -5,6 +5,7 @@
 
 .container-cards {
   display: flex;
+  max-width: 100%;
 }
 
 .skill {
