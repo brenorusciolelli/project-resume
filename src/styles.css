@@ -1,0 +1,28 @@
+
+:root {
+  background-color: #171717;
+  flex-direction: column;
+  height: 100%;
+}
+
+* {
+    font-family: 'DM Sans', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
+
+
